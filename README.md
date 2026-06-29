@@ -15,15 +15,7 @@ This portfolio serves as a central place to showcase my projects, technical skil
 
 ## 🚀 Live Portfolio
 
-🔗 **Portfolio:** *(Add your deployed website link here)*
-
-Example:
-```
-
-https://misbah2000.github.io/Portfolio/
-
-```
-
+🔗 **Portfolio:** *(https://misbakhan.netlify.app/)*
 ---
 
 ## 📂 Project Structure
@@ -104,16 +96,6 @@ Portfolio/
 
 ---
 
-## 📸 Portfolio Preview
-
-> Add a screenshot of your portfolio here.
-
-```
-
-images/portfolio-preview.png
-
-````
-
 ## 📬 Contact
 
 **Misbah Mazhar Khan**
@@ -126,6 +108,7 @@ images/portfolio-preview.png
 
 * GitHub: https://github.com/Misbah2000
 * LinkedIn: https://www.linkedin.com/in/misbah-mazhar-khan-data-analysis/
+* Portfolio: https://misbasite.netlify.app/
 
 ---
 
